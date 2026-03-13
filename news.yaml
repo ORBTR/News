@@ -1,0 +1,24 @@
+articles:
+  - title: "ORBTR Public Beta is Live"
+    date: "2026-03-10"
+    tag: "Release"
+    featured: true
+    description: >
+      After months of private testing, ORBTR is now open to everyone.
+      The public beta includes the full agent for macOS, Linux, and Windows —
+      with mesh SD-WAN, zero-trust enrollment, policy engine, and DNS
+      resolution out of the box.
+    highlights:
+      - "Cross-platform agent (macOS · Linux · Windows)"
+      - "Mesh P2P overlay with Noise encryption"
+      - "Policy engine with mesh-based propagation"
+      - "30-day trial with up to 25 devices"
+      - "9 devices free forever after trial"
+    actions:
+      - text: "Start Free Trial"
+        url: "https://app.orbtr.io/setup"
+        style: "primary"
+      - text: "See All Features"
+        url: "/features"
+        style: "ghost"
+
